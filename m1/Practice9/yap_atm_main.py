@@ -3,7 +3,7 @@ import streamlit as st
 from yap_atm_account import Account
 import yap_atm_balance
 import yap_atm_deposit
-import yap_atm_withdraw
+import yap_atm_withdrawal
 import yap_atm_history
 import yap_atm_analysis
 
