@@ -80,7 +80,7 @@ elif choice == "Deposit":
         else:
 
             success = (
-                balaman_atm_deposit.deposit_money(
+                yap_atm_deposit.deposit_money(
                     account,
                     amount
                 )
