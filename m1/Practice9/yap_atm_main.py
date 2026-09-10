@@ -131,7 +131,7 @@ elif choice == "Withdraw":
         else:
 
             success = (
-                yap_atm_withdraw.withdraw_money(
+                yap_atm_withdrawal.withdraw_money(
                     account,
                     amount
                 )
